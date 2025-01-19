@@ -71,7 +71,7 @@ app.get("/", (_, res) => {
   );
 });
 
-app.use((req, res) => {
+app.use((_, res) => {
   res.status(404).json({
     statusCode: "404",
     OK: false,
