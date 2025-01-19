@@ -30,8 +30,7 @@ node --watch index.js
 ```
 
 ## Contribution/Bugs
-If you experience any bugs regarding the tool, please open an issue and document the problem in detail so that I can fix it and fix it as needed.
-
+> If you experience any bugs regarding the tool, please open an issue and document the problem in detail so that I can fix it and fix it as needed.
 If you want to contribute a feature or fix a bug yourself, kindly act per the following instructions/guide:
 - Fork the repository.
 - Create a new branch for your changes.
