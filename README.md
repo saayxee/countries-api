@@ -38,7 +38,7 @@ Now go to localhost:3000/[ENDPOINT]
 - `/countries/[CONTINENT]`: Get names and country codes of all countries within a specific continent (Antarctica excluded).
 
 ## Contribution/Bugs
-> If you experience any bugs regarding the tool, please open an issue and document it in detail so I can fix it as needed.
+> If you experience any bugs regarding the API, please open an issue and document it in detail so I can fix it as needed.
 If you want to contribute a feature or fix a bug yourself, kindly act per the following instructions/guide:
 - Fork the repository.
 - Create a new branch for your changes.
