@@ -28,6 +28,14 @@ npm install express express-rate-limit
 ```bash
 node --watch index.js
 ```
+Now go to localhost:3000/[ENDPOINT]
+
+## Endpoints
+>[!IMPORTANT]
+> If a continent contains a " " in its name (such as "North America"), a hyphen ("-") will be used instead.  
+- `/`: Get no data but a confirmation message. 
+- `/countries`: Get all countries' names and country codes.
+- `/countries/[CONTINENT]`: Get names and country codes of all countries within a specific continent (Antarctica excluded).
 
 ## Contribution/Bugs
 > If you experience any bugs regarding the tool, please open an issue and document it in detail so I can fix it as needed.
